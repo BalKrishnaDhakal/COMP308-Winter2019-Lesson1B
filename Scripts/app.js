@@ -1,8 +1,10 @@
 "use strict";
 
+
+
 // self-executing anonymous function
 
-// IIFE -- Immediately Invoked Function Expression
+// IIFE -- Immediablately Invoked Function Expression
 
 (function() {
 
